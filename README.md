@@ -15,9 +15,6 @@ TransMediTrust is a blockchain- and AI-enabled pharmaceutical supply chain manag
   - Distinct roles: Owner, Supplier, Manufacturer, Transporter, Distributor, Pharmacy, Consumer.
   - Smart contracts enforce permissions and prevent unauthorized actions.
 
-- 🔍 **QR Code Verification**
-  - Each medicine batch is assigned a QR code.
-  - Consumers and pharmacists can scan and verify product authenticity instantly.
 
 - 🤖 **AI-Driven Anomaly Detection**
   - Machine learning models detect suspicious activities such as duplicate transfers, abnormal delays, and route deviations.
